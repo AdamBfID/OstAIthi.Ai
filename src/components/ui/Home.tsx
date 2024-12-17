@@ -7,7 +7,7 @@ import {
   } from "@/components/ui/carousel"
   import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
   import AppLogo from "@/assets/logo.jpeg";
-  import Logo from "@/assets/AppLogo.jpeg";
+ 
 
 export function Home() {
     return (
